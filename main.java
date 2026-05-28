@@ -68,7 +68,7 @@ public class Main {
             } else if (ch == 6) {
                 System.out.println("Thank You!");
                 break;
-            } else {
+            } else{
                 System.out.println("Invalid choice!");
             }
         }
